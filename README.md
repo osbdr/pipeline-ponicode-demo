@@ -1,4 +1,4 @@
-# pipeline-ponycode-demo
+# pipeline-ponicode-demo
 
 Documentation: (https://app.ponicode.com/home/docs)
 Source: (https://github.com/ponicode/demo-project)
