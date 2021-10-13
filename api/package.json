@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "jest": "27.2.5",
-    "ponicode": "0.53.2"
+    "ponicode": "0.54.1"
   }
 }
