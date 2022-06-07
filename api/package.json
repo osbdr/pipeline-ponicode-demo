@@ -20,7 +20,7 @@
     "prettier": "2.6.2"
   },
   "devDependencies": {
-    "jest": "28.1.0",
+    "jest": "28.1.1",
     "ponicode": "0.69.1"
   }
 }
